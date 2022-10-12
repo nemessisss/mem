@@ -1,5 +1,5 @@
 
 def a (a):
-  print("A")
+  print(a)
 
 a(1)
