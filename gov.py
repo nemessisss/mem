@@ -1,5 +1,5 @@
 
-def a ():
+def a (a):
   print("A")
 
-a()
+a(1)
