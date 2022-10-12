@@ -2,4 +2,4 @@
 def a ():
   print("A")
 
-  a()
+a()
